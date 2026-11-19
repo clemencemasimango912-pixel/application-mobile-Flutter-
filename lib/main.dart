@@ -506,15 +506,18 @@ class HomePage extends StatelessWidget {
           ],
         ),
 
-        section(
-          'COMPÉTENCES LINGUISTIQUES',
-          Icons.language,
-          [
-            'Français : À préciser',
-            'Anglais : À préciser',
-            'Autres langues : À compléter',
-          ],
-        ),
+        
+section(
+  'COMPÉTENCES LINGUISTIQUES',
+  Icons.language,
+  [
+    'Français : Parlé',
+    'Anglais : Parlé',
+    'Swahili : Parlé',
+    'Lingala : Parlé',
+  ],
+),
+
 
         section(
           'CENTRES D’INTÉRÊT',
